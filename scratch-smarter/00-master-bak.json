@@ -1507,7 +1507,7 @@
                         "Ref": "NumberOfAZs"
                     }
                 },
-                "TemplateURL": "https://s3.amazonaws.com/aws-refarch/wordpress/latest/templates/aws-refarch-wordpress-03-elasticache.yaml"
+                "TemplateURL": "https://s3-us-west-2.amazonaws.com/cf-templates-6as5nle3rnkq-us-west-2/2020008VN5-03-elasticache.json"
             }
         },
         "newvpc": {
